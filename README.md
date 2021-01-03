@@ -33,3 +33,6 @@ Expected Auxillary Space:O(1)
 Constraints:
 1<=A,B,C<=109
 A,B,C are distinct. 
+
+
+#100 days of code
